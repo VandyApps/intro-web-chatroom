@@ -1,0 +1,18 @@
+{
+  "name": "vandyapps-chatroom",
+  "author": "Varun Arora <varun.arora@vanderbilt.edu>",
+  "version": "0.0.1",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.14.1",
+    "mongoose": "^4.9.0"
+  },
+  "description": "A publicly accessible persistent chatroom app, built for the Spring 2017 Web Dev Sessions @ VandyApps",
+  "main": "app.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC"
+}
